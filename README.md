@@ -1,16 +1,51 @@
-# byte_trek_task
+# ByteTrek Task App
 
-A new Flutter project.
+ByteTrek Task is a Flutter app that allows users to manage their tasks. It integrates with a dummy API service to fetch and manage task data. Users can mark tasks as completed or pending and also add new tasks to the list.
+
+## Features
+
+- Fetch and display task data from a dummy API service.
+- Mark tasks as completed or pending.
+- Add new tasks to the list.
+- User-friendly and intuitive user interface.
+- Clean and maintainable code architecture.
+
+## APK
+- If you want run direct apk go to : https://drive.google.com/file/d/1VCznVR8Ycy5lcSzJ--NLZUOsxeHUBixE/view?usp=sharing
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+1. Clone the repository: https://github.com/SadakatulShakil/btl-task-A-Todo-List-/tree/develop
 
-A few resources to get you started if this is your first Flutter project:
+2. Change directory to the project folder:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+3. Install dependencies:
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+4. Run the app:
+
+## Dependencies
+
+- [flutter](https://flutter.dev)
+- [http](https://pub.dev/packages/http) - For making HTTP requests.
+- [provider](https://pub.dev/packages/provider) - For state management.
+
+## Directory Structure
+
+lib/
+|-- models/
+| |-- task.dart
+|-- screens/
+| |-- splash_screen.dart
+| |-- main_screen.dart
+| |-- add_task_screen.dart
+|-- services/
+| |-- api_service.dart
+|-- main.dart
+
+## Contribution
+
+Contributions are welcome! If you find any bugs or want to improve the app, feel free to open an issue or submit a pull request.
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.

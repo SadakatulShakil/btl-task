@@ -25,6 +25,7 @@ class MyApp extends StatelessWidget {
       theme: ThemeData(
         primarySwatch: Colors.blue,
       ),
+      debugShowCheckedModeBanner: false, // Set this to false
       initialRoute: '/',
       routes: {
         '/': (context) => SplashScreen(),
