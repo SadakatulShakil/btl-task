@@ -11,7 +11,7 @@ ByteTrek Task is a Flutter app that allows users to manage their tasks. It integ
 - Clean and maintainable code architecture.
 
 ## APK
-- If you want run direct apk go to : https://drive.google.com/file/d/1VCznVR8Ycy5lcSzJ--NLZUOsxeHUBixE/view?usp=sharing
+- If you want run direct apk go to : https://drive.google.com/file/d/11gCSMIhTxdocxvQC8Df8zr6tPucgNkAK/view?usp=sharing
 
 ## Getting Started
 
