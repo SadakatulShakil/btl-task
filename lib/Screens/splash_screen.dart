@@ -20,7 +20,7 @@ class _SplashScreenState extends State<SplashScreen> {
     return Scaffold(
       body: Center(
         child: Text(
-          "ByteTrek Task",
+          "Zoom my Art",
           style: TextStyle(fontSize: 24, fontWeight: FontWeight.bold),
         ),
       ),
